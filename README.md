@@ -1,4 +1,4 @@
-# 📊 Python Sales Data Analysis
+# 📊 Sales Data Analysis Python
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Latest-150458?style=for-the-badge&logo=pandas&logoColor=white)
